@@ -11,10 +11,10 @@ This repository contains all the resources and solution of the quizzes given and
  Open Source tools for Data Science
 
  Data Science Methodology
+ 
+ Python for Data Science, AI & Development
 
- Python for Data Science and AI
-
- Databases and SQL for Data Science
+ Databases and SQL for Data Science with Python
 
  Data Analysis with Python
 
